@@ -1,6 +1,6 @@
 🚀 Project Name
 
-A modern frontend application built with React to deliver a fast, responsive, and user-friendly interface.
+A modern frontend web page built with React to deliver a fast, responsive, and user-friendly interface.
 
 ✨ Features
 
